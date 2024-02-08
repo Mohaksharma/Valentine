@@ -45,7 +45,7 @@ function App() {
       {yesPressed ? (  // Display content after clicking the "YES" button
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" alt="bear-Kissing" />
-          <div className='text'>Dobra odpowiedź!</div>
+          <div className='text'>Love you🌹!!!</div>
         </>
       ) : ( // Display content before clicking the "YES" button
         <>
