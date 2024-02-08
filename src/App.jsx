@@ -17,7 +17,7 @@ const phrases = [
     "Why are you doing this to me?",
     "Please give me a chance!",
     "I am begging you to stop!",
-    "Ok, Lets just start over..",
+
 ]
 
 function App() {
